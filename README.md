@@ -22,7 +22,7 @@ Currently growing as a **MERN stack developer**, aiming to become a **full-stack
 - 🍽️ Creating **BiteClock** (food expiration tracker – full stack)
 
   
-### 🌐 Connect with me socials
+### 🌐 Connect me with socials
 
 <p align="left">
   <a href="https://github.com/Abdulaliarafat" target="_blank">
