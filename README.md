@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/cXgr7TwW/Picsart-25-06-25-17-09-27-686-1.png" alt="Banner" style="rounded:70% width:100%;"/>
+<img src="https://i.ibb.co/cXgr7TwW/Picsart-25-06-25-17-09-27-686-1.png" alt="Banner" style="width:100%;"/>
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Abdul Ali Arafat 👋</h1>
