@@ -1,4 +1,31 @@
 ## Abdul ali arafat
+<img src="https://your-banner-image-url.com" alt="Banner" style="width:100%;"/>
+
+<!-- Intro -->
+<h1 align="center">Hi, I'm Abdul Ali Arafat 👋</h1>
+<h3 align="center">Aspiring MERN Stack Developer | Lifelong Learner</h3>
+
+---
+
+### 🧑‍💻 About Me
+
+I’m **Abdul Ali Arafat**, a passionate learner from a non-CSE background. I always try to explore new things and enjoy creating meaningful and creative solutions. That curiosity led me to join **Programming Hero**.
+
+Over the past 6+ months, I’ve explored technologies like:
+**Firebase, Netlify, Vercel, DaisyUI, Node.js, Next.js, React, Vite, MongoDB, Figma, Framer, Canva, JavaScript, Express.js, HTML5, React Hook Form, React Router, TailwindCSS, JWT, NPM, Nodemon**
+
+I’m becoming a **MERN stack developer**, and I’m aiming for **full-stack** next.
+
+---
+
+### 🚀 Currently Working On
+
+- 🔍 Exploring **Next.js**
+- 💼 Building **JobTrack** (job search – front end)
+- 🎨 Developing **HobbyHub** (hobby selector – front & back end)
+- 🍽️ Creating **BiteClock** (food expiration tracker – full stack)
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dreamlessarafat.ii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ara-fat-021531362/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulaliarafat@gmail.com) 
 
