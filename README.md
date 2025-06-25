@@ -1,4 +1,3 @@
-## Abdul ali arafat
 <img src="https://your-banner-image-url.com" alt="Banner" style="width:100%;"/>
 
 <!-- Intro -->
@@ -9,14 +8,11 @@
 
 ### 🧑‍💻 About Me
 
-I’m **Abdul Ali Arafat**, a passionate learner from a non-CSE background. I always try to explore new things and enjoy creating meaningful and creative solutions. That curiosity led me to join **Programming Hero**.
+I’m **Abdul Ali Arafat**, a creative mind from a non-CSE background, always curious and eager to build meaningful things. My journey started with **Programming Hero**, and for over 6 months I’ve been exploring:
 
-Over the past 6+ months, I’ve explored technologies like:
-**Firebase, Netlify, Vercel, DaisyUI, Node.js, Next.js, React, Vite, MongoDB, Figma, Framer, Canva, JavaScript, Express.js, HTML5, React Hook Form, React Router, TailwindCSS, JWT, NPM, Nodemon**
+**Firebase, Netlify, Vercel, DaisyUI, Node.js, Next.js, React, Vite, MongoDB, Figma, Canva, Express.js, JavaScript, HTML5, TailwindCSS, and more.**
 
-I’m becoming a **MERN stack developer**, and I’m aiming for **full-stack** next.
-
----
+Currently growing as a **MERN stack developer**, aiming to become a **full-stack developer** next.
 
 ### 🚀 Currently Working On
 
