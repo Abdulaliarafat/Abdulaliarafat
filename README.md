@@ -21,10 +21,8 @@ Currently growing as a **MERN stack developer**, aiming to become a **full-stack
 - 🎨 Developing **HobbyHub** (hobby selector – front & back end)
 - 🍽️ Creating **BiteClock** (food expiration tracker – full stack)
 
----
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dreamlessarafat.ii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ara-fat-021531362/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulaliarafat@gmail.com) 
-### 🌐 Connect with Me
+  
+### 🌐 Connect with Me  Socials
 
 <p align="left">
   <a href="https://github.com/yourusername" target="_blank">
