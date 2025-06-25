@@ -25,7 +25,7 @@ Currently growing as a **MERN stack developer**, aiming to become a **full-stack
 ### 🌐 Connect with Me  Socials
 
 <p align="left">
-  <a href="https://github.com/yourusername](https://github.com/Abdulaliarafat)" target="_blank">
+  <a href="https://github.com/Abdulaliarafat" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
